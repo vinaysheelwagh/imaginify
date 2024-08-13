@@ -67,5 +67,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-Live app is available at https://imaginify-waghvinaysheels-projects.vercel.app/
+Live app is available at https://imaginify-two-hazel.vercel.app
 
